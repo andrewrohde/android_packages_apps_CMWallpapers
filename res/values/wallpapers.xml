@@ -32,6 +32,7 @@
         <item>bladesplusdroplets</item>
         <item>decay</item>
 	<item>risen</item>
+	<item>purple</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -51,5 +52,6 @@
         <item>Blades of Glory - Henry Mason</item>
         <item>Decay - Henry Mason</item>
 	<item>Risen - Justin Maller</item>
+	<item>Purple - Unknown</item>
     </string-array>
 </resources>
