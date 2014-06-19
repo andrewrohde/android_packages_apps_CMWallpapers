@@ -34,6 +34,7 @@
         <item>decay</item>
 	<item>risen</item>
 	<item>purple</item>
+        <item>tetra</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -53,7 +54,8 @@
         <item>Light Bursting Out - Mathew Hanley</item>
         <item>Blades of Glory - Henry Mason</item>
         <item>Decay - Henry Mason</item>
-	<item>Risen - Justin Maller</item>
-	<item>Purple - Unknown</item>
+        <item>Risen - Justin Maller</item>
+        <item>Purple - Unknown</item>
+        <item>Tetra - Justin Maller</item>
     </string-array>
 </resources>
